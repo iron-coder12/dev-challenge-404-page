@@ -69,4 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
-- GitHub [iron-coder12](https://{github.com/iron-coder12})
+- GitHub [iron-coder12](https://github.com/iron-coder12)

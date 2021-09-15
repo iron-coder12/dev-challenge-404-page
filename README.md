@@ -41,11 +41,10 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-- <br>
-You can see my demo at https://iron-coder12.github.io/dev-challenge-404-page/
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+**You can see my demo at https://iron-coder12.github.io/dev-challenge-404-page/**
+- What was your experience? **It was good really helpful and hepled to revise all my responsive design skills**
+- What have you learned/improved? **I improved my responsive web design skills**
+
 
 ### Built With
 

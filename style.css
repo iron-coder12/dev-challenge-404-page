@@ -1,0 +1,89 @@
+.navbar-brand {
+  font-size: 10px;
+  margin-left: 50px;
+}
+
+.scarecrow-image {
+  height: 500px;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.navbar {
+  padding: 5 0 5 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Azeret Mono', monospace;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+#main {
+  text-align: justify;
+}
+
+footer {
+  text-align: center;
+}
+
+h1 {
+  text-align: right;
+  margin-top: 110px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-family: 'Azeret Mono', monospace;
+}
+
+p {
+  font-family: 'Azeret Mono', monospace;
+  font-size: 1.5rem;
+  margin: 50px;
+  text-align: justify;
+  margin-left: 0;
+}
+
+button {
+  border-radius: 0;
+  padding: 20px 20px 20px 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  font-size: 1.5rem;
+  font-family: 'Azeret Mono', monospace;
+}
+
+a {
+  color: grey;
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: none;
+  color: burlywood;
+}
+
+@media only screen and (max-width: 768px) {
+  .scarecrow-image {
+    height: 320px;
+    margin-left: 0;
+  }
+  h1 {
+    text-align: center;
+  }
+  p {
+    text-align: justify;
+  }
+  a {
+    text-align: center;
+  }
+  button {
+    text-align: center;
+    margin-right: 0;
+    margin-left: 50px;
+  }
+}
+/*# sourceMappingURL=style.css.map */
